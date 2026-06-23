@@ -60,20 +60,19 @@ A deep learning project for classifying 8 types of blood cells using ResNet18 on
 
 ## Visualizations
 
-### Blood Cell Samples
-![samples](results/blood_cell_samples.png)
+
 
 ### Training Curves Comparison
 **Random Initialization** — unstable validation accuracy:
 
-![random](results/training_curves_random.png)
+![random](training_curves.png)
 
 **Pretrained ResNet18** — stable and consistent improvement:
 
-![pretrained](results/training_curves_pretrained.png)
+![pretrained](training_curves_pretrained.png)
 
 ### Confusion Matrix
-![confusion](results/confusion_matrix.png)
+![confusion](confusion_matrix.png)
 
 ---
 
